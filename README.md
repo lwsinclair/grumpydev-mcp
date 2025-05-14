@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sinedied-grumpydev-mcp-badge.png)](https://mseep.ai/app/sinedied-grumpydev-mcp)
+
 <div align="center">
 
 <img src="./docs/images/icon.png" alt="" align="center" height="96" />
